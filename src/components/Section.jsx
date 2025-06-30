@@ -13,7 +13,7 @@ const Section = ({ imageUrl, caption, isFirst }) => {
         justifyContent: "center",
         gap: "1rem",
         padding: isFirst ? "100px 1rem 0" : "0 1rem",
-        backgroundColor: "#000",
+        backgroundColor: "#fefae0 ",
         boxSizing: "border-box",
       }}
     >

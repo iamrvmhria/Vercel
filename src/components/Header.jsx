@@ -13,7 +13,7 @@ const Header = () => {
                     display: "flex",
                     justifyContent: "space-between",
                     alignItems: "center",
-                    backgroundColor: "#ffffffee",
+                    backgroundColor: '#ffffff',
                     position: "sticky",
                     top: 0,
                     left: 0,
