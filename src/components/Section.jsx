@@ -30,7 +30,7 @@ const Section = ({ imageUrl, caption, isFirst }) => {
       <p
         style={{
           fontSize: "1.5rem",
-          color: "white",
+          color: "#0d1117",
           textAlign: "center",
         }}
       >
